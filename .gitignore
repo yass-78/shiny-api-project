@@ -1,0 +1,4 @@
+# Ignorar archivos innecesarios
+*.DS_Store
+*.RData
+*.Rhistory
